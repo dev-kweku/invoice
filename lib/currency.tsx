@@ -1,7 +1,7 @@
 import {US,GH,EU, FlagComponent} from "country-flag-icons/react/1x1"
 
 
-export const currencyLists:{
+export const currencyList:{
     value:string;
     label:string;
     details:{
